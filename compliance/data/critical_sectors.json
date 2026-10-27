@@ -1,0 +1,18 @@
+{
+  "proclamation": "1426/2026",
+  "country": "Ethiopia",
+  "sectors": [
+    {"id": 1, "name": "Information & Communications Technology", "name_am": "ኢንፎርሜሽን እና ኮሙኒኬሽን ቴክኖሎጂ"},
+    {"id": 2, "name": "Finance and Banking", "name_am": "ፋይናንስ እና ባንክ"},
+    {"id": 3, "name": "Security, Public Safety & Defense", "name_am": "ደህንነት እና መከላከያ"},
+    {"id": 4, "name": "Transport and Logistics", "name_am": "ትራንስፖርት እና ሎጂስቲክስ"},
+    {"id": 5, "name": "Water & Energy", "name_am": "ውሃ እና ኢነርጂ"},
+    {"id": 6, "name": "Government & Emergency Services", "name_am": "መንግስት እና የአደጋ ጊዜ አገልግሎት"},
+    {"id": 7, "name": "Healthcare", "name_am": "ጤና"},
+    {"id": 8, "name": "Education", "name_am": "ትምህርት"},
+    {"id": 9, "name": "Trade", "name_am": "ንግድ"},
+    {"id": 10, "name": "Agriculture", "name_am": "ግብርና"},
+    {"id": 11, "name": "Digital Identity", "name_am": "ዲጂታል መታወቂያ"},
+    {"id": 12, "name": "Telecommunications", "name_am": "ቴሌኮሙኒኬሽን"}
+  ]
+}
